@@ -1,0 +1,31 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 100%;
+}
+.login {
+  font-size: 24px;
+  font-family: "Roboto";
+  color: #423f3f;
+  font-weight: bolder;
+}
+.login-success {
+  font-size: 24px;
+  font-family: "Roboto";
+  color: #3bc66a;
+  font-weight: bolder;
+}
+.booked {
+  color: #3bc66a;
+  height: 40px;
+  width: 40px;
+}
+.booking {
+  font-size: 24px;
+  font-family: "Roboto";
+  color: #303c34;
+  font-weight: bolder;
+}
